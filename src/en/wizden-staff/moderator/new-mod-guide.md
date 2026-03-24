@@ -45,6 +45,7 @@ Moderators have access to a variety of commands to help them moderate the server
 
 - `!reason <caseid> <reason>`: Changes the reason for a case ID.
 
+- `!disableattachments <userID>` Restricts the ability for a user to send images in their messages, gives the user the "Attachments disabled" role on discord.
 
 ## Discourse
 
